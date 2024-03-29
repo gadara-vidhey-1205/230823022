@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App content="this is the content" number="112 joined"/>
+    <App />
   </React.StrictMode>
 );
 
